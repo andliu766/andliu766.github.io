@@ -4,6 +4,10 @@ h1 {
 }
 div.login {
     text-align: center;
+    border-width: 5px;
+    border-color: #aaaaaa;
+    border-style: dashed;
+    
 }
 input {
     border-color: #ffeeee;
@@ -19,5 +23,5 @@ button {
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     border-color: red;
-    color: #ddddff
+    color: #33ffff
 }
