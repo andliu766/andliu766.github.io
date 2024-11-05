@@ -11,9 +11,10 @@ div.login {
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    
 }
 input {
-    border-color: #ffeeee;
+    border-color: #ffdddd;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -26,4 +27,8 @@ button {
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     border-color: red;
+}
+div.quotes {
+    text-align: left;
+
 }
